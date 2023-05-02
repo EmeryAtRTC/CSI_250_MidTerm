@@ -1,6 +1,6 @@
-﻿using Lab3.Models;
+﻿using Spring23_Midterm.Models;
 
-namespace Lab3.Data
+namespace Spring23_Midterm.Data
 {
     public interface IAlbumList
     {

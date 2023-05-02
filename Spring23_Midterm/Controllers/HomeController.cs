@@ -1,8 +1,8 @@
-﻿using Lab3.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using Spring23_Midterm.Models;
 using System.Diagnostics;
 
-namespace Lab3.Controllers
+namespace Spring23_Midterm.Controllers
 {
     public class HomeController : Controller
     {

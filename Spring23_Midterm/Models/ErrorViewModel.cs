@@ -1,4 +1,4 @@
-namespace Lab3.Models
+namespace Spring23_Midterm.Models
 {
     public class ErrorViewModel
     {
