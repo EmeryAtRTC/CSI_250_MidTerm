@@ -1,0 +1,42 @@
+﻿@model Lab3.Models.Album
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Album</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(album => album.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Model.Title
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(album => album.Artist)
+        </dt>
+        <dd class = "col-sm-10">
+            @Model.Artist
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(album => album.Genre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Model.Genre
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(album => album.Price)
+        </dt>
+        <dd class = "col-sm-10">
+            @Model.Price
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-route-id="@Model.Id" asp-controller="Album" asp-action="Edit">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
