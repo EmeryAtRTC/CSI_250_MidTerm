@@ -9,15 +9,15 @@
 
 # Instructions
 
-## Clone the repository.
+- Clone the repository.
 
-## Open the included CSI250MidtermSpring23.docx file for instructions.
+- Open the included CSI250MidtermSpring23.docx file for instructions.
 
-## Complete all of the tasks listed in the word doc.
+- Complete all of the tasks listed in the word doc.
 
-## When complete create a commit with the message "Submission for midterm"
+- When complete create a commit with the message "Submission for midterm"
 
-## Push changes to github.
+- Push changes to github.
 
 # Tips for success
 - Commit early and often. As you complete each step create a new commit.
