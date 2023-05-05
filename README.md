@@ -13,7 +13,7 @@
 
 ## Open the included CSI250MidtermSpring23.docx file for instructions.
 
-## Complete all of the tasks listed in the work doc.
+## Complete all of the tasks listed in the word doc.
 
 ## When complete create a commit with the message "Submission for midterm"
 
