@@ -1,10 +1,10 @@
-﻿using Spring23_Midterm.Models;
+﻿using Midterm.Models;
 using System.Collections.Generic;
 
 //The namespace is where you tell a class
 //what project it belongs to
 //ProjectName.NameOfFolder
-namespace Spring23_Midterm.Data
+namespace Midterm.Data
 {
     public class AlbumList : IAlbumList
     {

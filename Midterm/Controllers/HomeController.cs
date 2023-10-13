@@ -1,26 +1,29 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Spring23_Midterm.Models;
+using Midterm.Data;
+using Midterm.Models;
 using System.Diagnostics;
 
-namespace Spring23_Midterm.Controllers
+namespace Midterm.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
 
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+
         }
 
         public IActionResult Index()
         {
-            return View();
+            return Json();
         }
 
         public IActionResult Privacy()
         {
-            return View();
+            return Json();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

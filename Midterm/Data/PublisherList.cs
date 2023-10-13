@@ -1,6 +1,6 @@
-﻿using Spring23_Midterm.Models;
+﻿using Midterm.Models;
 
-namespace Spring23_Midterm.Data
+namespace Midterm.Data
 {
     public class PublisherList : IPublisherList
     {

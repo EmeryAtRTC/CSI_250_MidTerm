@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Spring23_Midterm.Models
+namespace Midterm.Models
 {
     public class Album
     {

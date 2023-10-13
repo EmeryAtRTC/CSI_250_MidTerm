@@ -1,10 +1,10 @@
-using Spring23_Midterm.Data;
+using Midterm.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-//Add AlbumList and PublisherList to the services container
+//Add the Album and Publisher services to the services container
 builder.Services.AddSingleton<IAlbumList, AlbumList>();
 builder.Services.AddSingleton<IPublisherList, PublisherList>();
 
