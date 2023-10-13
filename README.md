@@ -11,7 +11,7 @@
 
 - Clone the repository.
 
-- Open the included CSI250MidtermSpring23.docx file for instructions.
+- Open the included CSI244MidtermFall23.docx file for instructions.
 
 - Complete all of the tasks listed in the word doc.
 
