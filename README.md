@@ -22,7 +22,6 @@
 # Tips for success
 - Commit early and often. As you complete each step create a new commit.
 - Refer to the example code and the weekly powerpoint
-- Office Hours are Mondays and Fridays from 11a-1pm, if you are struggling with any of the assignments please come by.
 
 
 Feel free to message your instructor or the TA on Canvas if you have any questions.
